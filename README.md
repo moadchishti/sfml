@@ -20,6 +20,7 @@ This project is for educational purposes and does not have a specific license. F
 
 This project was created to improve my programming skills using SFML and C++.
 
+## Demo
 
 https://github.com/user-attachments/assets/b3232182-e44b-40d5-9882-3e31011911f4
 
