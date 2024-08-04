@@ -16,7 +16,7 @@ This project demonstrates a simple 3D cube rotation using SFML (Simple and Fast 
 
 This project is for educational purposes and does not have a specific license. Feel free to use and modify the code as needed.
 
-## Author
+## Note
 
 This project was created to improve my programming skills using SFML and C++.
 
